@@ -1,0 +1,16 @@
+title: SecParis Meetup
+description: Regular security Meetups in Paris
+
+markdown: kramdown
+exclude: ["README.md", "LICENSE.md", "_talks/example.md"]
+sass:
+  style: compressed
+
+social_networks:
+  twitter: SecParisMeetup
+  meetup: SecParis-Meetup
+
+collections:
+  talks:
+    output: true
+    permalink: /talks/:path.html
