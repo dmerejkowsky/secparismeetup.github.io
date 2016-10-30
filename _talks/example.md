@@ -2,6 +2,7 @@
 layout: talk
 title: "Nmap: The Internet Considered Harmful - DARPA Inference Cheking Kludge Scanning"
 author: "Jon Oberheide and al."
+planned: 2020-02-30 04:15:00 +1
 ---
 
 ## Description

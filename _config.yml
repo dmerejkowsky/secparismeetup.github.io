@@ -12,5 +12,7 @@ social_networks:
 
 collections:
   talks:
+    title: Talks
+    directory: _talks
+    permalink: /talks/:title.html
     output: true
-    permalink: /talks/:path.html

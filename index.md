@@ -18,8 +18,9 @@ file in the `./talks` folder (follow the `example.md` file).
 {% if site.talks.size > 0 %}
 Programmed talks:
   <ul>
-    {% for talk in site.talks %}
-        <a href="{{ talk.url }}"><i>{{ talk.title }}</i></a> by {{ talk.author }}
+    {% assign talks = site.talks | sort: 'planned' %}
+    {% for talk in talks %}
+        {{ talk.planned | date: '%H:%M' }} - <a href="{{ talk.url }}"><i>{{ talk.title }}</i></a> by {{ talk.author }}<br>
     {% endfor %}
   </ul>
 {% else %}
