@@ -1,5 +1,6 @@
 title: SecParis Meetup
 description: Regular security Meetups in Paris
+timezone: Europe/Paris
 
 markdown: kramdown
 exclude: ["README.md", "LICENSE.md", "_talks/example.md"]
