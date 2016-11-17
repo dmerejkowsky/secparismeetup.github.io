@@ -10,7 +10,7 @@ The *real* homepage is hosted on [meetup.com](https://www.meetup.com/SecParis-Me
 ## Discussions
 
 All the discussions are taking place in the
-[Issues](https://github.com/ParisSecurityMeetup/secparismeetup.github.io/issues)
+[Issues](https://github.com/SecParisMeetup/secparismeetup.github.io/issues)
 of this repository. Feel free to contribute to it even if you're not one active
 member—all the thoughts are welcome!
 
