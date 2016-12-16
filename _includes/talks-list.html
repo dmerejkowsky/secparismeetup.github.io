@@ -1,0 +1,14 @@
+{% if site.talks.size > 0 %}
+Programmed talks:
+  <ul>
+    {% assign talks = site.talks | sort: 'planned' %}
+    {% for talk in talks %}
+        {% assign talktime = talk.planned | date: '%d %m %Y' %}
+        {% if talktime == include.date %}
+          {{ talk.planned | date: '%H:%M' }} - <a href="{{ talk.url }}"><i>{{ talk.title }}</i></a> by {{ talk.author }}<br>
+        {% endif %}
+    {% endfor %}
+  </ul>
+{% else %}
+  We don't have any talk proposed at the moment.
+{% endif %}
