@@ -23,5 +23,5 @@ file in the `./talks` folder (please follow the `example.md` file).
 
 [![Dashlane](./img/dashlane.png)](https://www.dashlane.com/)
 
-[Dashlane](https://www.dashlane.com/) is providing access to their meeting room (capacity 50 people) and some
-pizzas and drinks: thanks to them!
+[Dashlane](https://www.dashlane.com/) is offering access to their meeting room
+and some pizzas and drinks: thanks to them!
