@@ -2,7 +2,7 @@
 layout: talk
 title: "Keeping your secrets (in a) safe"
 author: "Dimitri Merejkowsky"
-planned: 2017-02-23 20:00:00 +1
+planned: 2017-02-23 20:45:00 +1
 ---
 
 ## Description
