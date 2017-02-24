@@ -27,3 +27,6 @@ His weapons of choice include: Neovim, Python3, TDD, and a lot of post-its.
 ## Links
 
 * [Tanker FAQ](https://www.tanker.io/faq)
+* [Slides](https://www.slideshare.net/DimitriMerejkowsky/tanker-keep-your-secrets-in-a-safe)
+* [Rabbit Challenge](https://app.tanker.io/rabbit/)
+* [Tanker on linkedin](https://www.linkedin.com/company/tankerapp)
